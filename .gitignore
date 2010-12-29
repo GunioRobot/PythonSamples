@@ -1,0 +1,5 @@
+.idea
+out.xml
+Config.py
+*.swp
+*.pyc

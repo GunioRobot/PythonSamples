@@ -1,2 +1,8 @@
 Collection of various simple python examples, at the moment mainly about XML import and
 export for the Magento eCommerce system.
+
+Required libraries:
+
+suds
+magento
+lxml
