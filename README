@@ -6,3 +6,8 @@ Required libraries:
 suds
 magento
 lxml
+
+Configuration:
+
+Rename Config.sample.py to Config.py and adjust settings. Never add a file to Git if it
+contains login data!!!
