@@ -4,3 +4,7 @@
 url = 'http://login:pwd@www.saarlouis.com'
 apiuser = 'login'
 apipass = 'pwd'
+
+ftpserver = 'server'
+ftpuser = 'user'
+ftppwd = 'pwd'
